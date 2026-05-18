@@ -81,7 +81,7 @@ public class CalculatorUI {
         window.setVisible(true);
     }
 
-    public double calculate(double firstNumber, double secondNumber, char operator) {
+    public static double calculate(double firstNumber, double secondNumber, char operator) {
         switch (operator) {
             case '+':
                 return firstNumber + secondNumber;
