@@ -1,4 +1,4 @@
-package id.telyu.scm;
+package com.houarizegai.calculator.id.telyu.scm;
 
 public class ArithmeticLogic {
 

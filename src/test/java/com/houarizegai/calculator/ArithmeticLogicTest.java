@@ -1,6 +1,8 @@
-package id.telyu.scm;
+package com.houarizegai.calculator;
 
 import org.junit.jupiter.api.Test;
+
+import com.houarizegai.calculator.id.telyu.scm.ArithmeticLogic;
 
 public class ArithmeticLogicTest {
 
