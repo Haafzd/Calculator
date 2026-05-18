@@ -1,3 +1,14 @@
+## Praktikum MKEPL
+
+Repository ini digunakan untuk praktikum Manajemen Konfigurasi dan Evolusi Perangkat Lunak.
+
+Aktivitas yang dilakukan:
+- Fork repository open-source Java
+- Setup branch main, develop, dan feature
+- Integrasi Maven testing
+- Integrasi GitHub Actions
+- Integrasi OWASP Dependency-Check
+
 # Calculator
 A very basic calculator application created using Java **Swing**. 
 
